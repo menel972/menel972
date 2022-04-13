@@ -1,8 +1,10 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
+
 <p align="center">
   <img src="https://github.com/menel972/menel972/blob/main/src/img/241502261_1167558490399487_2562834138164314895_n.png" alt="Ménélick Grandisson" height="200" style="margin-right: 20px"/>
 </p>
 <p>
-  <strong>Hello, I'm Ménélick,</strong> Junior web and mobile developer from <b>Paris, France</b>. I recently discovered the english term "wordsmith", and I think it describes me quite well.
+  <strong>Hello, I'm Ménélick,</strong> Junior web and mobile developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>.
 </p>
 <h3>Various techs I use</h3>
 <p>
