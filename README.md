@@ -1,7 +1,5 @@
-![Cover](https://github.com/menel972/menel972/src/img/241502261_1167558490399487_2562834138164314895_n.png)
-
 <p align="center">
-  <img src="https://github.com/menel972/menel972/src/img/241502261_1167558490399487_2562834138164314895_n.png" alt="Ménélick Grandisson" height="200" style="margin-right: 20px"/>
+  <img src="https://github.com/menel972/menel972/blob/main/src/img/241502261_1167558490399487_2562834138164314895_n.png" alt="Ménélick Grandisson" height="200" style="margin-right: 20px"/>
 </p>
 <p>
   <strong>Hello, I'm Ménélick,</strong> Junior web and mobile developer from<b>Paris, France</b>. I recently discovered the english term "wordsmith", and I think it describes me quite well.
@@ -21,7 +19,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
   <h3>Where to find me</h3>
-<p><a href="https://github.com/NicolasBrondin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/NicolasBrondin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nicolas-brondin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://blog.nicolas.brondin-bernard.com" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/menel972" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/menelick-grandisson-developpeur-web" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h3>Acknowledgments</h3>
 <p>This profile readme is greatly inspired by <a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Thomas Guibert</a>'s one !</p>
