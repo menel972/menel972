@@ -1,11 +1,10 @@
-### Hi there 👋
 ![Cover](https://github.com/menel972/menel972/src/img/241502261_1167558490399487_2562834138164314895_n.png)
 
 <p align="center">
-  <img src="https://github.com/menel972/menel972/src/img/241502261_1167558490399487_2562834138164314895_n.png" alt="Nicolas Brondin-Bernard" height="200" style="margin-right: 20px"/>
+  <img src="https://github.com/menel972/menel972/src/img/241502261_1167558490399487_2562834138164314895_n.png" alt="Ménélick Grandisson" height="200" style="margin-right: 20px"/>
 </p>
 <p>
-  <strong>Hello, I'm Ménélick,</strong> Junior web and mobile developer <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Tours, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
+  <strong>Hello, I'm Ménélick,</strong> Junior web and mobile developer from<b>Paris, France</b>. I recently discovered the english term "wordsmith", and I think it describes me quite well.
 </p>
 <h3>Various techs I use</h3>
 <p>
